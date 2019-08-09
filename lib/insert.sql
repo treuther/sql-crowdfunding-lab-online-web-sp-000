@@ -17,3 +17,5 @@ INSERT INTO users (name, age) VALUES
 ("Hairy", 35),
 ("Curly", 36),
 ("Moe", 37),
+("Betty", 38),
+("Boop", 39);
