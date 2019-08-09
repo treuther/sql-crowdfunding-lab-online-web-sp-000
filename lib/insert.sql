@@ -9,4 +9,11 @@ INSERT INTO users (name, age) VALUES
 ("DonL", 27),
 ("Erica", 28),
 ("Danielle", 29),
-("Timmy", 30);
+("Timmy", 30),
+("Johnny", 31),
+("Sara", 32),
+("Sammy", 33),
+("Penny", 34),
+("Hairy", 35),
+("Curly", 36),
+("Moe", 37),
