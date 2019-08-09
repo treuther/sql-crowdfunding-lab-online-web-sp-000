@@ -29,5 +29,6 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
   ("office supplies", "work", 100, "6/1/2019", "11/30/2019"),
   ("xmas gifts", "holiday", 2500, "7/1/2019", "12/20/2019"),
   ("dental", "insurance", 1500, "1/1/2019", "10/31/2019"),
+  ("health", "insurance", 1000, "1/1/2019", "11/30/2019"),
   
   
